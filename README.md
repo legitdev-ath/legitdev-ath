@@ -2,13 +2,13 @@
 
 ### Aspiring Engineer | Developer | Gamer | Tech Enthusiast
 
-- 🎓 **1st-year student**, diving deep into **Java & DSA** for the next 1-1.5 years before exploring **web development & projects**.
+- 🎓 **1st-year student**, diving deep into **Java & DSA** for the next 1-1.5 years.
 - 💻 Passionate about **coding, problem-solving, and building cool projects**.
-- 🎮 Gamer at heart! Always looking for the best PC build & peripherals.
+- 🎮 Gamer at heart! 
 
 ## 🔧 Tech Stack & Tools:
 
-- **Languages:** Java, Python (Exploring DSA in-depth)
+- **Languages:** Java, C++ (Exploring DSA in-depth)
 - **Tools & Platforms:** Git, GitHub, VS Code
 - **Web Development:** (Planned for future exploration)
 - **AI & ML:** (Future interest in exploring AI applications)
@@ -22,10 +22,7 @@
 - Develop **projects & real-world applications** 🏗️
 
 ## ⚡ Fun Facts:
-
 - I prefer **claw grip** for gaming & a **lightweight wireless mouse** 🖱️
-
-
 - Love **anime**, especially *Windbreaker, Classroom of the Elite, and Solo Leveling* 🎥
 
 ## 📫 Let's Connect:
