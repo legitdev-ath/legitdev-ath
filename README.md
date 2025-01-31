@@ -1,14 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Legit! 👋
+
+### Aspiring Engineer | Developer | Gamer | Tech Enthusiast
+
+- 🎓 **1st-year student**, diving deep into **Java & DSA** for the next 1-1.5 years before exploring **web development & projects**.
+- 💻 Passionate about **coding, problem-solving, and building cool projects**.
+- 🎮 Gamer at heart! Always looking for the best PC build & peripherals.
+
+## 🔧 Tech Stack & Tools:
+
+- **Languages:** Java, Python (Exploring DSA in-depth)
+- **Tools & Platforms:** Git, GitHub, VS Code
+- **Web Development:** (Planned for future exploration)
+- **AI & ML:** (Future interest in exploring AI applications)
+
+## 📌 Current Goals:
+
+- Master **Java & DSA** 📚
+- Start **open-source contributions** 🚀
+- Build a Jetson Nano based AI Agent as a college project 🎨
+- Enhance **coding speed & problem-solving skills** ⏳
+- Develop **projects & real-world applications** 🏗️
+
+## ⚡ Fun Facts:
+
+- I prefer **claw grip** for gaming & a **lightweight wireless mouse** 🖱️
 
 
+- Love **anime**, especially *Windbreaker, Classroom of the Elite, and Solo Leveling* 🎥
 
-Here are some ideas to get you started:
+## 📫 Let's Connect:
+
+- 📩 **GitHub Discussions:** atharvmojar@gmail.com
+- 🏗️ **Projects & Contributions:** (Work in Progress)
+
+### 🚀 Let's build, learn, and grow together! 💡
 
 
-- 🌱 I’m currently learning Python & C++
-
-
-
-
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Trapped in Tutorial Hell
