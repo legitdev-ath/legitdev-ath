@@ -1,8 +1,8 @@
 # Hi there, I'm Legit! 👋
 
-### Aspiring Engineer | Developer | Gamer | Tech Enthusiast
+### Aspiring Engineer | Novice Coder | Gamer | Tech Enthusiast
 
-- 🎓 **1st-year student**, diving deep into **Java & DSA** for the next 1-1.5 years.
+- 🎓 **1st-year student**, diving deep into **Java & DSA** for the next few months.
 - 💻 Passionate about **coding, problem-solving, and building cool projects**.
 - 🎮 Gamer at heart! 
 
@@ -22,6 +22,7 @@
 - Develop **projects & real-world applications** 🏗️
 
 ## ⚡ Fun Facts:
+- Lost in **Dostoesky**, navigating through **Kafka's** lens 🧐
 - I prefer **claw grip** for gaming & a **lightweight wireless mouse** 🖱️
 - Love **anime**, especially *Windbreaker, Classroom of the Elite, and Solo Leveling* 🎥
 
