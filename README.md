@@ -1,4 +1,4 @@
-# Hi there, I'm Legit! 👋
+# Hi there, I'm Atharv! 👋
 
 ### Aspiring Engineer | Novice Coder | Gamer | Tech Enthusiast
 
