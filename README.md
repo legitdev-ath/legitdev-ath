@@ -22,7 +22,7 @@
 - Develop **projects & real-world applications** 🏗️
 
 ## ⚡ Fun Facts:
-- Lost in **Dostoesky**, navigating through **Kafka's** lens 🧐
+- Lost in **Dostoyevsky**, navigating through **Kafka's** lens 🧐
 - I prefer **claw grip** for gaming & a **lightweight wireless mouse** 🖱️
 - Love **anime**, especially *Windbreaker, Classroom of the Elite, and Solo Leveling* 🎥
 
