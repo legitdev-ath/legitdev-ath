@@ -1,6 +1,6 @@
 # Hi there, I'm Atharv! 👋
 
-### Aspiring Engineer | Novice Coder | Gamer | Tech Enthusiast
+### Aspiring VLSI Engineer | Novice Coder | Gamer | Tech Enthusiast
 
 - 🎓 **1st-year student**, diving deep into **C++ & DSA** for the next few months.
 - 💻 Passionate about **coding, problem-solving, and building cool projects**.
